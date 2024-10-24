@@ -1,0 +1,15 @@
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\btvn_buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\btvn_buoi2.AssemblyInfoInputs.cache
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\btvn_buoi2.AssemblyInfo.cs
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\btvn_buoi2.csproj.CoreCompileInputs.cache
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\btvn_buoi2.sourcelink.json
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\bin\Debug\net8.0\btvn_buoi2.exe
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\bin\Debug\net8.0\btvn_buoi2.deps.json
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\bin\Debug\net8.0\btvn_buoi2.runtimeconfig.json
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\bin\Debug\net8.0\btvn_buoi2.dll
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\bin\Debug\net8.0\btvn_buoi2.pdb
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\btvn_buoi2.dll
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\refint\btvn_buoi2.dll
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\btvn_buoi2.pdb
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\btvn_buoi2.genruntimeconfig.cache
+D:\Cyber-C#\Cybersoft_dotnet2\btvn_buoi2\obj\Debug\net8.0\ref\btvn_buoi2.dll
